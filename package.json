@@ -57,9 +57,9 @@
   "author": "shubhdhebar <shubhdhebar@begenuin.com> (https://github.com/shubh-d-gen/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://linkedin.com/in/shubhdhebar/issues"
+    "url": "https://github.com/shubh-d-gen/test-plugin/issues"
   },
-  "homepage": "https://linkedin.com/in/shubhdhebar#readme",
+  "homepage": "https://github.com/shubh-d-gen/test-plugin#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
