@@ -1,6 +1,6 @@
 {
   "name": "react-native-test-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "just testing :)",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -52,9 +52,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://linkedin.com/in/shubhdhebar.git"
+    "url": "https://github.com/shubh-d-gen/test-plugin"
   },
-  "author": "shubhdhebar <shubhdhebar@begenuin.com> (https://linkedin.com/in/shubhdhebar)",
+  "author": "shubhdhebar <shubhdhebar@begenuin.com> (https://github.com/shubh-d-gen/)",
   "license": "MIT",
   "bugs": {
     "url": "https://linkedin.com/in/shubhdhebar/issues"
@@ -831,7 +831,6 @@
     "rc": "^1.2.8",
     "react-devtools-core": "^5.3.2",
     "react-is": "^17.0.2",
-    "react-native-test-plugin-example": "^0.0.1",
     "react-refresh": "^0.14.2",
     "read-package-up": "^11.0.0",
     "read-pkg": "^9.0.1",
